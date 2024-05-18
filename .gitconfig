@@ -1,0 +1,9 @@
+init.defaultbranch=main
+url.https://github.com/.insteadof=git://github.com/
+alias.history=log --graph
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+core.precomposeunicode=true
